@@ -1,0 +1,15 @@
+body{
+    background-color: #212529;
+}
+.bgchange{
+    background-color: rgb(1, 1, 92);
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+.container{
+    flex:1;
+}
